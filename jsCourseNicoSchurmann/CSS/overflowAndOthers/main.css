@@ -1,0 +1,22 @@
+body {
+  background-color: #eee;
+  color: black;
+}
+
+#over {
+  width: 100px;
+  height: 100px;
+  overflow: auto;
+}
+
+img {
+  float: right;
+}
+img:hover {
+  opacity: 0.80;
+}
+
+div p {
+  color: firebrick;
+}
+

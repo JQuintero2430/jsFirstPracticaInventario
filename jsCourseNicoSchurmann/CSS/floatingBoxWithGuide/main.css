@@ -1,0 +1,42 @@
+body {
+  background-color: #eee;
+}
+
+.box {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ccc;
+  border-radius: 2px;
+  border-top: solid 0px;
+}
+
+.header {
+  padding: 10px;
+  border-bottom: solid #eee;
+}
+
+.contents {
+  padding: 10px;
+}
+
+.footer {
+  padding: 10px;
+  border-top: solid #eee;
+}
+
+.positiveButton {
+  background-color: #0090ff;
+  padding: 5px;
+  border: 0px;
+  color: white;
+  border-radius: 4px;
+}
+
+.negativeButton {
+  background-color: rgb(255, 136, 136);
+  padding: 5px;
+  border: 0px;
+  color: white;
+  border-radius: 4px;
+}

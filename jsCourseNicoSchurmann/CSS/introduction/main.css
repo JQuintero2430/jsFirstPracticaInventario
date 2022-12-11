@@ -1,0 +1,14 @@
+body {
+  background-color: #efefef;
+  color: black;
+}
+
+/* id */
+#paragraph {
+  color: #f00;
+}
+
+/* Class */
+.label {
+  color: #0a0;
+}
